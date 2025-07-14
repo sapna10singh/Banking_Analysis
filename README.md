@@ -1,7 +1,7 @@
 # 🏦 Bankind EDA Project
 
-![Bankind Logo](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ce464601-e6ed-4216-b902-756bfa258e4c" />
-)
+![Bankind Logo](https://github.com/user-attachments/assets/ce464601-e6ed-4216-b902-756bfa258e4c/logo.png)
+
 
 ---
 
