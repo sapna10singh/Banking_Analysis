@@ -1,6 +1,6 @@
 # 🏦 Bankind EDA Project
 
-![Bankind Logo](https://github.com/user-attachments/assets/ce464601-e6ed-4216-b902-756bfa258e4c/logo.png)
+![Banking Logo](https://img.freepik.com/premium-vector/banking-logo-blue-color_448156-390.jpg)
 
 
 ---
