@@ -1,6 +1,7 @@
 # 🏦 Bankind EDA Project
 
-![Bankind Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bank_logo_generic.svg/1200px-Bank_logo_generic.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fpicture-of-bank-office-building_8953630.html&psig=AOvVaw2JZhQkrYpw1aQ7yaY86ao5&ust=1752564938062000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD8qM7ru44DFQAAAAAdAAAAABAV))
+![Bankind Logo](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ce464601-e6ed-4216-b902-756bfa258e4c" />
+)
 
 ---
 
